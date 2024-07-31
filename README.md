@@ -3,7 +3,7 @@ These scripts quantify epigenetic information in context of disease and developm
 
 This is an unpublished study under review, with a final submission date in October 2023, and hopefully Nature Genetics or Nuclear Acids Research :)
 
-This project is being conducted in collaboration with esteemed researchers at the Institute of Molecular Bioscience, University of Queensland, including Chris - Dr Woo Jun Shim, Dr Enakshi Sinniah (who was an esteemed attendee at the 2023 Nobel Prize Summit!), and the grant-writing, busy cardiologist A/Prof Nathan Palpant.
+This project is being conducted in collaboration with esteemed researchers at the Institute of Molecular Bioscience, University of Queensland, including Chris - Dr Woo Jun Shim, Dr Enakshi Sinniah (who was an esteemed attendee at the 2023 Nobel Prize Summit!), and the grant-writing, busy cardiac biologist A/Prof Nathan Palpant.
 
 ## Installation
 ```bash
